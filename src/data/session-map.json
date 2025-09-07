@@ -538,5 +538,23 @@
     "sessionId": "10cd6e52-91a8-476a-af0a-1fe2c2929ab6",
     "tmuxSession": "claude-hook-test",
     "description": "completed - Claude-Code-Remote"
+  },
+  "Q9YYARPM": {
+    "type": "pty",
+    "createdAt": 1757215139,
+    "expiresAt": 1757301539,
+    "cwd": "/home/wyd/Claude-Code-Remote",
+    "sessionId": "2fa0ce58-4f66-4324-b545-249e7f4c4f28",
+    "tmuxSession": "claude-session",
+    "description": "completed - test-project"
+  },
+  "8RSDK7HK": {
+    "type": "pty",
+    "createdAt": 1757215193,
+    "expiresAt": 1757301593,
+    "cwd": "/home/wyd/Claude-Code-Remote",
+    "sessionId": "df98ab32-a471-4510-90bb-7972850fbee6",
+    "tmuxSession": "claude-session",
+    "description": "completed - test-project"
   }
 }
